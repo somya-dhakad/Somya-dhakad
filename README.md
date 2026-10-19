@@ -3,11 +3,10 @@
 
 I am a passionate B.Tech IT student at IET Davv, driven by a curiosity for technology and a love for reading.
 
-![<somya-dhakad>'s Stats](https://github-readme-stats.vercel.app/api?username=<somya-dhakad>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
-- 🔭 I'm currently pursuing my Bachelor's 's in Information technology at IET Davv.
+- 🔭 I'm currently pursuing my Bachelor's in Information technology at IET Davv.
 
 
 ## 🌱 Currently Exploring
