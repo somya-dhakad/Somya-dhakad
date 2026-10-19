@@ -1,21 +1,21 @@
 
-# Hi, I'm <somya dhakad>! 👋
+# Hi, I'm <somya dhakad>! 
 
 I am a passionate B.Tech IT student at IET Davv, driven by a curiosity for technology and a love for reading.
 
 
-## 🚀 About Me
+##  About Me
 
-- 🔭 I'm currently pursuing my Bachelor's in Information technology at IET Davv.
+- I'm currently pursuing my Bachelor's in Information technology at IET Davv.
 
 
-## 🌱 Currently Exploring
+##  Currently Exploring
 
-- 🚀 Learning C++
+-  Learning C++
 
- ## 🏆 Achievements
+ ##  Achievements
 
-- 🌟 Completed internal SIH hackathon 2026-celebrated the spirit of collaboration.
+-  Completed internal SIH hackathon 2026-celebrated the spirit of collaboration.
 
 
 ## 📬 Get in Touch
