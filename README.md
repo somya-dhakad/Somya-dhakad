@@ -1,16 +1,26 @@
-## Hi there 👋
 
-<!--
-**somya-dhakad/Somya-dhakad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm <somya dhakad>! 👋
 
-Here are some ideas to get you started:
+I am a passionate B.Tech IT student at IET Davv, driven by a curiosity for technology and a love for reading.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![<somya-dhakad>'s Stats](https://github-readme-stats.vercel.app/api?username=<somya-dhakad>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+## 🚀 About Me
+
+- 🔭 I'm currently pursuing my Bachelor's 's in Information technology at IET Davv.
+
+
+## 🌱 Currently Exploring
+
+- 🚀 Learning C++
+
+ ## 🏆 Achievements
+
+- 🌟 Completed internal SIH hackathon 2026-celebrated the spirit of collaboration.
+
+
+## 📬 Get in Touch
+
+- Connect with me on [LinkedIn] (https://www.linkedin.com/in/somya-dhakad-763157421?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+
+Thanks for stopping by! Let's connect and explore the fascinating world of technology together.
