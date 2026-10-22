@@ -11,7 +11,7 @@ I am a passionate B.Tech IT student at IET Davv, driven by a curiosity for techn
 
 ##  Currently Exploring
 
--  Learning C++
+-  Learning C
 
  ##  Achievements
 
